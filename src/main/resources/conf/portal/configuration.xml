@@ -35,8 +35,8 @@
         <init-params>
           <properties-param>
              <name>constructor.params</name>
-             <property name="searchType" value="wikipedia"/>
-             <property name="displayName" value="Wikipedia"/>
+             <property name="searchType" value="ES-Embedded"/>
+             <property name="displayName" value="ES-Embedded"/>
           </properties-param>
         </init-params>      
       </component-plugin>
